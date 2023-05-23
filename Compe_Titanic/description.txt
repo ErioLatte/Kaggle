@@ -1,0 +1,5 @@
+source:
+COMPETITION WEBSITE: https://www.kaggle.com/c/titanic
+
+Rules:
+No sharing the code outside 
